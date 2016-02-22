@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/creatorbe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/creatorbe/project/Tuan-pck/ListViewVolleyAS/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_ca836dec0e6daf81fb9741c23972baa4cfd6f0ed.jar" />
+    </item>
+    <item
+        jar="/Users/creatorbe/project/Tuan-pck/ListViewVolleyAS/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/creatorbe/project/Tuan-pck/ListViewVolleyAS/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_9232712225470eed87dbce0472fc75a7b46b9842.jar" />
+    </item>
+
+</items>

@@ -2,7 +2,7 @@
 
 Just a Little explanations How to parse json image to listview using volley. This code writen just for answer some questions on stackoverflow about how to passing some json string to detail activity.
 
-This repo based of : [Androidhive](http://www.androidhive.info/2012/02/android-custom-listview-with-image-and-text)
+This repo based on : [Androidhive](http://www.androidhive.info/2012/02/android-custom-listview-with-image-and-text)
 
 ## Usage
 
